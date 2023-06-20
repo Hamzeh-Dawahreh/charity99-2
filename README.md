@@ -8,10 +8,11 @@ to help people in need specially patient people to collect money from them
 - **CSS ![](first-teacher/src/images/css.png)**
 - **JS ![](first-teacher/src/images/javascript.png)**
 - **Visual Studio Code ![](first-teacher/src/images/vs.png)**
-- **Bootstrap ![](first-teacher/src/images/bootstrap.png)**
+- **tailawand ![](first-teacher/src/images/bootstrap.png)**
 - **React ![](first-teacher/src/images/react.png)**
 - **Figma online tool ![](first-teacher/src/images/figma2.png)**
 - **NodeJS ![](first-teacher/src/images/nodejs.png)**
+- 
 
 ## **📎 Links:**
 
